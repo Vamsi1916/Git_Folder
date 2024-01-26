@@ -1,1 +1,4 @@
 Google Docs is an online word processor included as part of the free, web-based Google Docs Editors suite offered by Google, which also includes Google Sheets, Google Slides, Google Drawings, Google Forms, Google Sites and Google Keep. Google Docs is accessible via an internet browser as a web-based application 
+
+
+Google Docs allows users to create and edit documents online while collaborating with other users in real time. Edits are tracked by the user making the edit, 
